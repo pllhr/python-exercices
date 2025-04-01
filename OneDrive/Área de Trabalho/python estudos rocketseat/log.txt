@@ -1,0 +1,8 @@
+2025-04-01 15:52:58,939 - __main__ - INFO - Inteiro = 4521
+2025-04-01 15:52:58,940 - __main__ - INFO - Real com ponto flutuante = 9.436
+2025-04-01 15:52:58,941 - __main__ - INFO - Tipo da variável Inteiro = <class 'int'>
+2025-04-01 15:52:58,942 - __main__ - INFO - Tipo da variável Real = <class 'float'>
+2025-04-01 15:52:58,943 - __main__ - INFO - 1 + 1 = 2
+2025-04-01 15:52:58,944 - __main__ - INFO - 2 - 1 = 1
+2025-04-01 15:52:58,946 - __main__ - INFO - 2 * 5 = 10
+2025-04-01 15:52:58,948 - __main__ - INFO - 8 / 2 = 4.0
